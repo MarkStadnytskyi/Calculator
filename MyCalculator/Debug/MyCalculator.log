@@ -1,0 +1,3 @@
+﻿  MyCalculator.cpp
+C:\Users\cwcoo\OneDrive\Робочий стіл\MyCalculator\MyCalculator.cpp(26): warning C4715: 'calculate': not all control paths return a value
+  MyCalculator.vcxproj -> C:\Users\cwcoo\OneDrive\Робочий стіл\MyCalculator\Debug\MyCalculator.exe
